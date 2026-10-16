@@ -1,6 +1,6 @@
 # AimWeb
 
-A lightweight aim trainer in your browser.
+A lightweight aim trainer on your browser.
 
 # The Story Behind This
 
